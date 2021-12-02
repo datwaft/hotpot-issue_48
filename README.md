@@ -25,7 +25,7 @@ but have the code in the same macro file everything works perfectly.
 Execute the following terminal command:
 
 ```shell
-docker build -t hotpot-issue_48 . && docker run -it hotpot-issue_48
+docker build -t hotpot-issue . && docker run -it hotpot-issue
 ```
 
 After that execute neovim:
